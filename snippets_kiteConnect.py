@@ -8,12 +8,12 @@ import time
 
 
 api_k = "nq31y6ndsyyqwdbc"  # id
-api_s = "5qmzojs1srptl5bhrgz1k13kyjip9tfu"  # pass
+api_s = "Enter your secret key" # pass
 kite = ""
 
+#########################################################
 # only if you are using cloud to store your daily request token, otherwise, just hardcode your request token
 # refer Trade Hull @youtube for tutorial series and all the code snippets and explanations
-###########################################################################
 
 mydb = mysql.connector.connect(
     host="database-restored1.cninlcvpipmk.us-east-1.rds.amazonaws.com", user="admin", passwd="password", database="stocks")
