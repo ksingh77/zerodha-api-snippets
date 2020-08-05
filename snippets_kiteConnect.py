@@ -7,7 +7,7 @@ import mysql.connector
 import time
 
 
-api_k = "nq31y6ndsyyqwdbc"  # id
+api_k = "Enter your api key"  # id
 api_s = "Enter your secret key" # pass
 kite = ""
 
